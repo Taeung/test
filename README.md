@@ -4,4 +4,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
 
-![Anurag's GitHub stats]([https://git-rainbow.com/user/leesoyuun/tech-cards](https://git-rainbow.com/user/leesoyuun/tech-cards))
+![Anurag's GitHub stats](https://git-rainbow.com/user/leesoyuun/tech-cards)
